@@ -7,10 +7,9 @@ Bonjour à tous,
 Voici le résultat de notre TP1 (Projet d'animation 2D avec Processing) pour le cours ANI2012 - Programmation en animation.
 
 Vous trouverez ici :
-
-    Le document de design avec les ressouses utilisées
-    Le vidéo du projet
-    Le code source et les ressources (data)
-    Les versions compilées (Mac, Windows et Linux)
+- Le document de design avec les ressources utilisées
+- Le vidéo du projet
+- Le code source et les ressources (data)
+- Les versions compilées Mac, Windows et Linux sont disponibles ici : (nous n'avons pas réussi à les intégrer sur GitHub)
 
 Attention pour exécuter le programme vous avez besoin de télécharger la librairie Minim et G-Streamer dans Processing. Attention pour ouvrir les versions compilées vous avez besoin de Java8.
