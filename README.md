@@ -10,6 +10,6 @@ Vous trouverez ici :
 - Le document de design avec les ressources utilisées
 - Le vidéo du projet
 - Le code source et les ressources (data)
-- Les versions compilées Mac, Windows et Linux sont disponibles ici : (nous n'avons pas réussi à les intégrer sur GitHub)
+- Les versions compilées Mac, Windows et Linux sont disponibles ici : (les fichiers sont trop lourds pour être stockés par GitHub)
 
 Attention pour exécuter le programme vous avez besoin de télécharger la librairie Minim et G-Streamer dans Processing. Attention pour ouvrir les versions compilées vous avez besoin de Java8.
