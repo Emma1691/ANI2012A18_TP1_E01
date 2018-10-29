@@ -1,6 +1,6 @@
-# ANI2012A18_TP1_E03
+# ANI2012A18_TP1_E01
 
-Projet d'animation 2D sur Processing (TP1 ANI2012) - Équipe 3 (Emma Verneuil, Éric Harvey, Hélène Carignan, Sandie Valiquette et William Brochu)
+Projet d'animation 2D sur Processing (TP1 ANI2012) - Équipe 1 (Emma Verneuil, Éric Harvey, Hélène Carignan, Sandie Valiquette et William Brochu)
 
 Bonjour à tous,
 
